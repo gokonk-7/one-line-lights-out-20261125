@@ -1,0 +1,6 @@
+kit/
+competition.json
+requirements.json
+/output/
+node_modules/
+.DS_Store
